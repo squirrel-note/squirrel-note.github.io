@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^FumenUtils$ https://github.com/squirrel-note/FumenUtils [L,R=302]
